@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 I’m currently working on<Networking>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 About Me: I'm a 23 years old tech enthusiatist with a great urge of learning cybersecurity and computer in general.
+🔭 I’m currently working on<br> Networking
 
 
 ## 🌐 Socials:
