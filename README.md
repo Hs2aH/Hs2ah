@@ -1,6 +1,5 @@
-# 💫 About Me: I'm a 23 years old tech enthusiatist with a great urge of learning cybersecurity and computer in general.
-🔭 I’m currently working on<br> Networking
-
+# 💫 About Me:
+Dedicated and accomplished Computer Science student specializing in Cybersecurity and Ethical Hacking. With a solid foundation in programming (Python, C/C++, Java), networking, and modern technologies like Blockchain, I am committed to both offensive and defensive security. My passion for the field is demonstrated by a published research paper and the creation of a cybersecurity teaching group, showcasing a strong commitment to practical application and mentorship.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Husam howbani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:husam.howbani.2002@gmail.com) 
